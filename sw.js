@@ -5,14 +5,14 @@
  * under a running game: an updated worker waits until the page asks it to take over
  * (the "Update ready" prompt), then deletes the old caches.
  */
-const VERSION = '1757fd12b705';
+const VERSION = '4516f156a3f5';
 const PRECACHE = [
   "./",
   "./assets/basis/basis_transcoder.js",
   "./assets/basis/basis_transcoder.wasm",
   "./assets/basis_transcoder-VXdx5NbI.wasm",
   "./assets/basis_transcoder-o4Hde_L7.js",
-  "./assets/index-5IM5_8Ua.js",
+  "./assets/index-DnYUVPg9.js",
   "./assets/index-TNbEpx64.css",
   "./assets/manifest.json",
   "./assets/models/commuter.glb",
